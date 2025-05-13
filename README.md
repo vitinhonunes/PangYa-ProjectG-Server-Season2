@@ -1,0 +1,2 @@
+# PangYa Server Season2
+
